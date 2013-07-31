@@ -1,0 +1,6 @@
+xstack 0.0.1
+==============
+
+Library that aim to get reliable call stack from C program compiled without
+frame pointers.
+
